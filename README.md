@@ -13,7 +13,7 @@ Over the past few years, I’ve led high-performing global support teams, optimi
 
 ---
 
-### 🧠 Current Focus  
+### Current Focus  
 
 -  **Agentic AI** — designing multi-layered cognitive agents that can perceive, remember, and act  
 -  **Retrieval-Augmented Generation (RAG)** — context-aware assistants with long-term memory  
@@ -56,20 +56,20 @@ An experimental prototype combining **LLM reasoning + Support workflows**.
 The assistant retrieves contextual knowledge, analyzes issue patterns, and recommends next steps for engineers.
 
 **Core Design**
-- 🧠 *Cognitive Pipeline:* Perceive → Remember → Decide → Act  
-- 🔍 *Retrieval Layer:* Vector-based context lookup via LangChain  
-- 🔗 *Integration:* MCP for multi-turn state persistence  
-- 🧩 *Tool Use:* API-level access to logs, scripts, and case data  
-- ⚡ *Outcome:* Reduced triage time and improved root-cause accuracy  
+-  *Cognitive Pipeline:* Perceive → Remember → Decide → Act  
+-  *Retrieval Layer:* Vector-based context lookup via LangChain  
+-  *Integration:* MCP for multi-turn state persistence  
+-  *Tool Use:* API-level access to logs, scripts, and case data  
+-  *Outcome:* Reduced triage time and improved root-cause accuracy  
 
 ---
 
 ### Certifications  
 
-- ☁️ Google Cloud Certified – Associate Cloud Engineer  
-- 🧩 AWS Certified Cloud Practitioner  
-- 🎯 Service Capability and Performance (SCP) Certified Support Manager  
-- 📊 TIBCO Certified Professional – Spotfire  
+-  Google Cloud Certified – Associate Cloud Engineer  
+-  AWS Certified Cloud Practitioner  
+-  Service Capability and Performance (SCP) Certified Support Manager  
+-  TIBCO Certified Professional – Spotfire  
 
 ---
 
@@ -82,9 +82,9 @@ Currently, I’m exploring how **agentic architectures** and **retrieval-augment
 
 ### Connect with Me  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/nawazalimohammad/)  
-- 🧠 [GitHub](https://github.com/nzalpha)  
-- ✉️ [Email Me](mailto:nzdev24@gmail.com)  
+-  [LinkedIn](https://www.linkedin.com/in/nawazalimohammad/)  
+-  [GitHub](https://github.com/nzalpha)  
+-  [Email Me](mailto:nzdev24@gmail.com)  
 
 ---
 
